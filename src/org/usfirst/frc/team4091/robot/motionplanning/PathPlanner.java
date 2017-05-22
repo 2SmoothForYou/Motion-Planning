@@ -1,4 +1,4 @@
-package org.usfirst.frc.team4091.motionplanning;
+package org.usfirst.frc.team4091.robot.motionplanning;
 
 import java.util.List;
 import java.util.LinkedList;
