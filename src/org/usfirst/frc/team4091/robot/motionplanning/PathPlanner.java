@@ -458,6 +458,7 @@ public class PathPlanner {
 	 * 
 	 */
 	public void calculate(double totalTime, double timeStep, double robotTrackWidth){
+		
 		/*
 		 * Pseudo code:
 		 * Reduce input waypoints to only essential(direction changing) node points
